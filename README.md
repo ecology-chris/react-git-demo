@@ -1,5 +1,7 @@
 # React + GitHub API project
 
+**NOTE! I modded this project to search for users based on a query instead of an exact match. I also added pagination using jw-react-pagination**
+
 In this project, we're going to take a small, existing React application and add new features to it.
 
 Here's what the application will look like once you are done:
